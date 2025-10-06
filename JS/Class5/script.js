@@ -1,19 +1,19 @@
 // Arrays:
 
     // let nums = [10, 20, 30, 40, 50, 60]
-    // //          0   1    2   3   4  5
+    // // //       0   1    2   3   4  5
 
-    // nums.push()
+    // // nums.push(70)
     // nums.pop()
 
-    // console.log(nums[1]);
+    // console.log(nums);
 
 // Objects
 
     // let student = {
     //     name: "Raj",
     //     age: 23,
-    //     mobile: 98765432,
+    //     mobile: [9876543223, 7654323456],
     //     favColor: ["black", "blue", "pink"],
     //     address: {
     //         dno: 2,
@@ -23,7 +23,8 @@
 
     // student.address.street = "ABCXYZ"
 
-    // console.log(student.address);
+    // console.log(student);
+    // console.log(student.mobile);
 
 // Destructuring:
 
@@ -33,7 +34,7 @@
 
         // const [red, oren, yellow] = fruits
 
-        // console.log(red);
+        // console.log(yellow);
 
     // Object
 
