@@ -13,6 +13,6 @@
 
 // Arrow Function:
 
-    const arr = (a, b) => a * b
+    const arr = (a, b) => a * b;
 
     console.log(arr(5, 6));
